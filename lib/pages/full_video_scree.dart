@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper_plus/flutter_swiper_plus.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'package:video_player/video_player.dart';
 import 'package:yt_shorts/widgets/videoitem.dart';
@@ -21,6 +22,7 @@ class FullScreen extends StatelessWidget {
         child: Swiper(
           //index which is passed from the previous screen(Thumbnail screen)
           index: currentindex,
+          curve: Curves.bounceOut,
           loop: false,
           scrollDirection: Axis.vertical,
           itemCount: viderstate.postsgetter.length,
@@ -55,16 +57,28 @@ class FullScreen extends StatelessWidget {
                           SizedBox(
                             width: 8,
                           ),
-                          Text(viderstate.postsgetter[index].creator!.handle!),
+                          Text(
+                            viderstate.postsgetter[index].creator!.handle!,
+                            style: TextStyle(
+                                fontSize: 18,
+                                fontStyle: GoogleFonts.aBeeZee().fontStyle),
+                          ),
                         ],
                       ),
                       SizedBox(
                         height: 5,
                       ),
-                      Text(
-                        viderstate.postsgetter[index].submission!.description!,
-                        style: TextStyle(color: Colors.white),
-                        overflow: TextOverflow.ellipsis,
+                      SizedBox(
+                        width: MediaQuery.of(context).size.width * 0.7,
+                        child: Text(
+                          viderstate
+                              .postsgetter[index].submission!.description!,
+                          style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 15,
+                              fontStyle: GoogleFonts.poppins().fontStyle),
+                          overflow: TextOverflow.ellipsis,
+                        ),
                       ),
                     ],
                   ),

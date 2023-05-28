@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [ChangeNotifierProvider(create: (_) => VideoState())],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Yt Shorts',
         theme: ThemeData(
           brightness: Brightness.dark,
