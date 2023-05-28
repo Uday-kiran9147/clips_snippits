@@ -1,0 +1,259 @@
+{
+    "message": "Success",
+    "data": {
+        "posts": [
+            {
+                "postId": "d4b073dd-08c0-49a3-bf0d-656d085751a3",
+                "creator": {
+                    "name": "YASH DAYA SRK",
+                    "id": "25508688-8115-47b2-b32d-08c1bd177ad7",
+                    "handle": "jr_srk_yash",
+                    "pic": "https://content-uploads-staging.s3.ap-south-1.amazonaws.com/1ef3bc0564e8_1659218190745.bin"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 0,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/ec12312256ad_1683524903074.mp4",
+                    "thumbnail": "https://cdn.gro.care/a387d54789f4_1683524902456.jpeg",
+                    "hyperlink": "https://links.gro.care/PTUN7YrQGzBEgvsv8",
+                    "placeholderUrl": "https://cdn.gro.care/02697b72519e_1661257638369.bin"
+                }
+            },
+            {
+                "postId": "7f88aeb9-f067-4e32-80c0-c354bfc32078",
+                "creator": {
+                    "name": "Pari Dixit",
+                    "id": "465f3735-95cf-4a5d-8f46-6ea3a73b92b3",
+                    "handle": "paridixit__",
+                    "pic": "https://cdn.gro.care/d75e3e709c9e_1682692230505.webp"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 7,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/4dc9fddff1c8_1683731818849.mp4",
+                    "thumbnail": "https://cdn.gro.care/da96bba81115_1683731818122.jpeg",
+                    "hyperlink": "https://links.gro.care/Ez7M5GgsukNTCUQ5A",
+                    "placeholderUrl": "https://cdn.gro.care/02697b72519e_1661257638369.bin"
+                }
+            },
+            {
+                "postId": "2e904724-b0d0-4931-80a9-7fad10e91c68",
+                "creator": {
+                    "name": "Bhavana prajapati",
+                    "id": "e857d738-b2d1-4e0a-b813-5d3dbfbe075b",
+                    "handle": "bhavana_prajapati",
+                    "pic": "https://cdn.gro.care/fa42e5a953b0_1675181141705.jpeg"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 5,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/045e95f617aa_1683612715343.mp4",
+                    "thumbnail": "https://cdn.gro.care/81cab3fdf7a4_1683612715258.jpeg",
+                    "hyperlink": "https://links.gro.care/4KEY45x1AuqteKUH9",
+                    "placeholderUrl": "https://cdn.gro.care/9816dd99598c_1661257637720.bin"
+                }
+            },
+            {
+                "postId": "1a1d8355-a8a7-415a-89d5-298a4aa7eecc",
+                "creator": {
+                    "name": "Chandani Amodkar 💫",
+                    "id": "eecac2d9-ea49-44a3-b064-97423482cde2",
+                    "handle": "chandani_amodkar_",
+                    "pic": "https://cdn.gro.care/a3eef9a5d347_1683519283530.webp"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 1,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/982b82505720_1683537766830.mp4",
+                    "thumbnail": "https://cdn.gro.care/833615ec939f_1683537766713.jpeg",
+                    "hyperlink": "https://links.gro.care/z9GnwJPdVuMCNUGT9",
+                    "placeholderUrl": "https://cdn.gro.care/1b5b9c01ec5c_1661257637653.bin"
+                }
+            },
+            {
+                "postId": "eb00467f-03ca-48d3-939d-98b26ef9cf75",
+                "creator": {
+                    "name": "Aspirants khator",
+                    "id": "a0eadfa0-662a-481b-9187-e9c7442b3a86",
+                    "handle": "aakankshikhator",
+                    "pic": "https://cdn.gro.care/22e29859f95d_1683179733828.jpeg"
+                },
+                "comment": {
+                    "count": 1,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 17,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/7d8f73f4345d_1683421638825.mp4",
+                    "thumbnail": "https://cdn.gro.care/367ba2a5b2e0_1683421638174.jpeg",
+                    "hyperlink": "https://links.gro.care/tf3xrTSbEurGWXP46",
+                    "placeholderUrl": "https://cdn.gro.care/02697b72519e_1661257638369.bin"
+                }
+            },
+            {
+                "postId": "e2f1f457-26b3-4646-9955-6387e7fe1117",
+                "creator": {
+                    "name": "Ankita Sharma",
+                    "id": "c4e99a92-8805-434d-8e40-41d2fe720cfc",
+                    "handle": "anki_9686",
+                    "pic": "https://cdn.gro.care/8449233fcde8_1679559395383.webp"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 3,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/25535f3735ac_1683610022644.mp4",
+                    "thumbnail": "https://cdn.gro.care/b037eaf29f99_1683610021956.jpeg",
+                    "hyperlink": "https://links.gro.care/JWKQJV6drgAXRbk56",
+                    "placeholderUrl": "https://cdn.gro.care/9816dd99598c_1661257637720.bin"
+                }
+            },
+            {
+                "postId": "b852f8e0-84dc-4e41-bb84-a70b839bc741",
+                "creator": {
+                    "name": "Samriti Jamwal",
+                    "id": "3bd18838-3561-477e-89f3-d775f234b51a",
+                    "handle": "itz_me_jamwal",
+                    "pic": "https://cdn.gro.care/be8cf2065b3a_1682619511004.webp"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 4,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/5ae48aa0eefc_1683620773030.mp4",
+                    "thumbnail": "https://cdn.gro.care/1a9cce7d409f_1683620772507.jpeg",
+                    "hyperlink": "https://links.gro.care/fpjzv6dn3adPTG7bA",
+                    "placeholderUrl": "https://cdn.gro.care/5299e0ab13d7_1661257638161.bin"
+                }
+            },
+            {
+                "postId": "77888a5c-d9c5-4c03-a698-ec50133a5c38",
+                "creator": {
+                    "name": "✨sanjanapassi✨",
+                    "id": "cd18481b-b356-4e39-a06b-377cfe27fe31",
+                    "handle": "sanjanapassi168",
+                    "pic": "https://cdn.gro.care/075dd9033458_1664659176920.bin"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 2,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/07e3211d27f7_1683621100596.mp4",
+                    "thumbnail": "https://cdn.gro.care/437eb50d8a88_1683621099950.jpeg",
+                    "hyperlink": "https://links.gro.care/1pA99o65Jv3wRgop8",
+                    "placeholderUrl": "https://cdn.gro.care/02697b72519e_1661257638369.bin"
+                }
+            },
+            {
+                "postId": "6840b465-677e-4076-8dc2-78e0d0aa0223",
+                "creator": {
+                    "name": "kalika",
+                    "id": "374f3679-ff32-40f3-9774-ef892ba8ab8f",
+                    "handle": "kalika_rawat",
+                    "pic": "https://cdn.gro.care/f110ca6c4435_1676611985073.jpeg"
+                },
+                "comment": {
+                    "count": 0,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 2,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/8dc1d78c9b1b_1683524871793.mp4",
+                    "thumbnail": "https://cdn.gro.care/6655ec7ef133_1683524871156.jpeg",
+                    "hyperlink": "https://links.gro.care/6M5S7NJkXmDEk5Q98",
+                    "placeholderUrl": "https://cdn.gro.care/eb37f38b95f9_1661257638053.bin"
+                }
+            },
+            {
+                "postId": "a9ca690f-68a2-4a14-a291-f6c6aac03164",
+                "creator": {
+                    "name": "Suman",
+                    "id": "47b87e1e-cbe0-4348-92fe-c01f4c09da66",
+                    "handle": "sumisumam",
+                    "pic": "https://cdn.gro.care/711f613af814_1683177647969.webp"
+                },
+                "comment": {
+                    "count": 1,
+                    "commentingAllowed": true
+                },
+                "reaction": {
+                    "count": 3,
+                    "voted": false
+                },
+                "submission": {
+                    "title": "Random Title",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet enim nec libero faucibus imperdiet. Nam auctor commodo nulla nec finibus. Etiam gravida mauris at neque scelerisque, eu euismod ex sodales. In at risus at ipsum blandit ultricies a a ipsum. Integer euismod consectetur dignissim. ",
+                    "mediaUrl": "https://cdn.gro.care/2af2e8b5b819_1683644037514.mp4",
+                    "thumbnail": "https://cdn.gro.care/07e2161d356f_1683644036969.jpeg",
+                    "hyperlink": "https://links.gro.care/iwmGecw16n28MXyRA",
+                    "placeholderUrl": "https://cdn.gro.care/9816dd99598c_1661257637720.bin"
+                }
+            }
+        ],
+        "page": 2,
+        "offset": 3
+    }
+}
