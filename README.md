@@ -1,7 +1,8 @@
 
 # Clips_snippits
 
-<a href="http://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://github.com/Uday-kiran9147/clips_snippits/blob/master/assets/video/yt_shorts-intern_demo%20(Uday%20kiran).mp4">
+
+<a href="https://github.com/Uday-kiran9147/clips_snippits/blob/master/assets/video/yt_shorts-intern_demo%20(Uday%20kiran).mp4">
   <img src="assets/screenshots/Screenshot_1685260095.png" alt="Video" width="200">
 </a>
 
