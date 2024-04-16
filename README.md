@@ -1,5 +1,6 @@
 
 # Clips_snippits
+[![Video](assets/screenshots/Screenshot_1685260095.png)]([http://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://github.com/Uday-kiran9147/clips_snippits/blob/master/assets/video/yt_shorts-intern_demo%20(Uday%20kiran).mp4))
 
 Project to builds a simplified "YouTube Shorts"  mobile application. This application
 should allow users to:
